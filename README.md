@@ -23,10 +23,10 @@
 
 ### Screenshots
 <div align="center">
-	<img src="/Screenshots/screenshot1.png"></img>
+	<img src="/Screenshots/Screenshot1.png"></img>
 </div>
 
 
 <div align="center">
-        <img src="/Screenshots/screenshot2.png"></img>
+        <img src="/Screenshots/Screenshot2.png"></img>
 </div>
