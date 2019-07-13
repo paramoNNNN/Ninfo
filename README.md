@@ -20,3 +20,9 @@
 
 ### Usage
     $ python Ninfo.py
+
+### Screenshots
+[Screenshot](/Screenshots/Screenshot1.png)
+
+
+[Screenshot](/Screenshots/Screenshot2.png)
