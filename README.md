@@ -22,7 +22,11 @@
     $ python Ninfo.py
 
 ### Screenshots
-[Screenshot](/Screenshots/Screenshot1.png)
+<div align="center">
+	<img src="/Screenshots/screenshot1.png"></img>
+</div>
 
 
-[Screenshot](/Screenshots/Screenshot2.png)
+<div align="center">
+        <img src="/Screenshots/screenshot2.png"></img>
+</div>
