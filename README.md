@@ -4,7 +4,7 @@
   <strong>View Now Playing in Terminal</strong>
 </div>
 
-### Requirements
+## Requirements
 - [Python3.x](https://www.python.org/downloads/)
 - [ColorThief](https://github.com/fengsp/color-thief-py)
   `pip3 install colorthief`
@@ -18,10 +18,10 @@
 - [Sty](https://pypi.org/project/sty/)
 `pip3 install sty`
 
-### Usage
+## Usage
     $ python3 Ninfo.py
 
-### Screenshots
+## Screenshots
 <div align="center">
 	<img src="/Screenshots/Screenshot1.png"></img>
 </div>
